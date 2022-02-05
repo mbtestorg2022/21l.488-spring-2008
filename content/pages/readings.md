@@ -45,31 +45,274 @@ Readings by Session
 
 All readings should be completed prior to their discussion.
 
-| Lec # | TOPICS/READINGS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | "The Doum Tree of Wad Hamid" |
-| 3 | "The Doum Tree of Wad Hamid" (cont.) |
-| 4 | Climate change symposium |
-| 5 | "The Fortunate Traveller" |
-| 6 | "The Fortunate Traveller" (cont.) |
-| 7 | _A Fine Balance_, I-III |
-| 8 | Essay workshop |
-| 9 |  {{< br >}}{{< br >}} _A Fine Balance_ (cont.), IV-XI {{< br >}}{{< br >}} Class meets w/o professor B {{< br >}}{{< br >}}  |
-| 10 | _A Fine Balance_ (cont.), XII-end |
-| 11 | _A Small Place_ |
-| 12 | _A Small Place_ (cont.) / _Life and Debt_ (film) |
-| 13 | _Rushing to Paradise_, to p. 91 |
-| 14 | Review session |
-| 15 | _Rushing to Paradise_ (cont.), to p. 168 |
-| 16 | _Rushing to Paradise_ (cont.), all |
-| 17 | _The Constant Gardener_, pp. 1-135 |
-| 18 | _The Constant Gardener_ (cont.), pp. 136-322 |
-| 19 | _The Constant Gardener_ (cont.), pp. 323-end |
-| 20 | _Petals of Blood_, part I |
-| 21 | _Petals of Blood_ (cont.), parts I-III |
-| 22 | _Petals of Blood_ (cont.), all |
-| 23 |  {{< br >}}{{< br >}} World bank and _National Geographic_ narratives {{< br >}}{{< br >}} Wachera, Becky, and Matthew Meyer. Sole Comfort Dot-Com. {{< br >}}{{< br >}} {{< h 3 >}}Additional Readings{{< /h >}} {{< br >}}{{< br >}} Scofield, John, and Raghubir Singh. "Bombay: The Other India." _National Geographic_ 160 (July 1981): 104-129. {{< br >}}{{< br >}} Grove, Noel, and Stevel Raymer. "The Caribbean: Sun, Sea and Seething." _National Geographic_ 159 (February 1981): 244-271. {{< br >}}{{< br >}} Swerdlow, Joel. "Global Culture." _National Geographic_ 196 (August 1999): 2-33. {{< br >}}{{< br >}} Hines-Smith, Leone M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Jamaica Trade Point Story: From Stress To Success." (PDF)](http://unpan1.un.org/intradoc/groups/public/documents/Other/UNPAN022139.pdf) {{< br >}}{{< br >}}  |
-| 24 | _Cause Celeb_, to p. 175 |
-| 25 | _Cause Celeb_ (cont.), to end |
-| 26 | Wrapping up
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS/READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+"The Doum Tree of Wad Hamid"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+"The Doum Tree of Wad Hamid" (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Climate change symposium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+"The Fortunate Traveller"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+"The Fortunate Traveller" (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_A Fine Balance_, I-III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Essay workshop
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_A Fine Balance_ (cont.), IV-XI
+
+Class meets w/o professor B
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_A Fine Balance_ (cont.), XII-end
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_A Small Place_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_A Small Place_ (cont.) / _Life and Debt_ (film)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Rushing to Paradise_, to p. 91
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Review session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Rushing to Paradise_ (cont.), to p. 168
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Rushing to Paradise_ (cont.), all
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_The Constant Gardener_, pp. 1-135
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_The Constant Gardener_ (cont.), pp. 136-322
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_The Constant Gardener_ (cont.), pp. 323-end
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Petals of Blood_, part I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Petals of Blood_ (cont.), parts I-III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Petals of Blood_ (cont.), all
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+World bank and _National Geographic_ narratives
+
+Wachera, Becky, and Matthew Meyer. Sole Comfort Dot-Com.
+
+### Additional Readings
+
+Scofield, John, and Raghubir Singh. "Bombay: The Other India." _National Geographic_ 160 (July 1981): 104-129.
+
+Grove, Noel, and Stevel Raymer. "The Caribbean: Sun, Sea and Seething." _National Geographic_ 159 (February 1981): 244-271.
+
+Swerdlow, Joel. "Global Culture." _National Geographic_ 196 (August 1999): 2-33.
+
+Hines-Smith, Leone M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Jamaica Trade Point Story: From Stress To Success." (PDF)](http://unpan1.un.org/intradoc/groups/public/documents/Other/UNPAN022139.pdf)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Cause Celeb_, to p. 175
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_Cause Celeb_ (cont.), to end
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Wrapping up
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

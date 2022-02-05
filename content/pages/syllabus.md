@@ -34,11 +34,48 @@ Assignments
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 5-7 pages essay and revision | 35% |
-| 10-12 pages essay | 35% |
-| Discussion leadership and participation | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7 pages essay and revision
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-12 pages essay
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion leadership and participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Essays
 
@@ -78,31 +115,339 @@ Guide to Writing Literature Essays ([PDF]({{< baseurl >}}/resources/agdwrtltrees
 Calendar
 --------
 
-| Lec # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | "The Doum Tree of Wad Hamid" | &nbsp; |
-| 3 | "The Doum Tree of Wad Hamid" (cont.) | &nbsp; |
-| 4 | Climate change symposium | &nbsp; |
-| 5 | "The Fortunate Traveller" | &nbsp; |
-| 6 | "The Fortunate Traveller" (cont.) | &nbsp; |
-| 7 | _A Fine Balance_, I-III | &nbsp; |
-| 8 | Essay workshop | First essay due |
-| 9 |  {{< br >}}{{< br >}} _A Fine Balance_ (cont.), IV-XI {{< br >}}{{< br >}} Class meets w/o professor B {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | _A Fine Balance_ (cont.), XII-end | &nbsp; |
-| 11 | _A Small Place_ | &nbsp; |
-| 12 | _A Small Place_ (cont.) / _Life and Debt_ (film) | &nbsp; |
-| 13 | _Rushing to Paradise_, to p. 91 | &nbsp; |
-| 14 | Review session | Revised essay due |
-| 15 | _Rushing to Paradise_ (cont.), to p. 168 | &nbsp; |
-| 16 | _Rushing to Paradise_ (cont.), all | &nbsp; |
-| 17 | _The Constant Gardener_, pp. 1-135 | &nbsp; |
-| 18 | _The Constant Gardener_ (cont.), pp. 136-322 | &nbsp; |
-| 19 | _The Constant Gardener_ (cont.), pp. 323-end | &nbsp; |
-| 20 | _Petals of Blood_, part I | &nbsp; |
-| 21 | _Petals of Blood_ (cont.), parts I-III | &nbsp; |
-| 22 | _Petals of Blood_ (cont.), all | &nbsp; |
-| 23 | World bank and _National Geographic_ narratives | &nbsp; |
-| 24 | _Cause Celeb_, to p. 175 | &nbsp; |
-| 25 | _Cause Celeb_ (cont.), to end | &nbsp; |
-| 26 | Wrapping up | Final essay due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+"The Doum Tree of Wad Hamid"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+"The Doum Tree of Wad Hamid" (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Climate change symposium
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+"The Fortunate Traveller"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+"The Fortunate Traveller" (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_A Fine Balance_, I-III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Essay workshop
+{{< tdclose >}}
+{{< tdopen >}}
+First essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_A Fine Balance_ (cont.), IV-XI
+
+Class meets w/o professor B
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_A Fine Balance_ (cont.), XII-end
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_A Small Place_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_A Small Place_ (cont.) / _Life and Debt_ (film)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Rushing to Paradise_, to p. 91
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Review session
+{{< tdclose >}}
+{{< tdopen >}}
+Revised essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Rushing to Paradise_ (cont.), to p. 168
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Rushing to Paradise_ (cont.), all
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_The Constant Gardener_, pp. 1-135
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_The Constant Gardener_ (cont.), pp. 136-322
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_The Constant Gardener_ (cont.), pp. 323-end
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Petals of Blood_, part I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Petals of Blood_ (cont.), parts I-III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Petals of Blood_ (cont.), all
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+World bank and _National Geographic_ narratives
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Cause Celeb_, to p. 175
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_Cause Celeb_ (cont.), to end
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Wrapping up
+{{< tdclose >}}
+{{< tdopen >}}
+Final essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
