@@ -281,7 +281,7 @@ Grove, Noel, and Stevel Raymer. "The Caribbean: Sun, Sea and Seething." _Nationa
 
 Swerdlow, Joel. "Global Culture." _National Geographic_ 196 (August 1999): 2-33.
 
-Hines-Smith, Leone M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Jamaica Trade Point Story: From Stress To Success." (PDF)](http://unpan1.un.org/intradoc/groups/public/documents/Other/UNPAN022139.pdf)
+Hines-Smith, Leone M. ["The Jamaica Trade Point Story: From Stress To Success." (PDF)](http://unpan1.un.org/intradoc/groups/public/documents/Other/UNPAN022139.pdf)
 
 
 {{< tdclose >}}
